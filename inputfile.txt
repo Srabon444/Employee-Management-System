@@ -1,0 +1,3 @@
+Surid,Student,surid.cfc95@gmail.com,454665,50000
+Jobaer,Service,jobaer.cfc01@gmail.com,12458,7000
+Ronaldo,Athlete,ronaldo@yahoo.com,3456,100000000
